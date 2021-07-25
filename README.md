@@ -8,6 +8,8 @@ Inspired from car racing games
 
 This project is about how a whale from the ocean reaches her destiny while overcoming all the hurdles it comes across be it from water transports or the plastic bottles that are present in the ocean. This game is kind of a way to create awareness of not dumping water bodies with plastic and related stuffs. So here game get over when it gets hit by any plastic or transport. Embark on this journey of supporting this cause by guiding a whale in proper path. 
 
+Youtube Link : https://www.youtube.com/watch?v=L63jx-ANnvU
+
 ## HOW IT'S BUILT
 
 This game is been built using complete python. We had added various python files to interact with the functionalities provided in this game like checking up with collisions, interacting with whale, adding up the object classes for all the features and main file which drives the project in an interactive manner.
